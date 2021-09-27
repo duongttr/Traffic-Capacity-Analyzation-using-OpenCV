@@ -1,15 +1,4 @@
-# ITS (Intelligent Traffic System) là gì?
-[![Build Status](/images/passing.svg/)](/)
 
-ITS là hệ thống phân tích giao thông bao gồm các thành phần:
-|  | Tên thành phần | Link |
-| ------ | ------ | ------ |
-| 1 | Phân tích lưu lượng giao thông | here! |
-| 2 | Nhận diện tai nạn giao thông | [link!](https://github.com/xinchaothegioi31415/Accident-Regconition-ML) |
-| 3 | Công nghệ phát hiện vượt đèn đỏ | [link!](https://github.com/xinchaothegioi31415/Red-Light-Detection) |
-
->Hệ thống sử dụng công nghệ Machine Learning thông qua thư viện mã nguồn mở [Darkflow](https://github.com/thtrieu/darkflow) để huấn luyện cho máy tính.
->Ngoài ra, hệ thống còn sử dụng thư viện mã nguồn mở OpenCV để phân tích hình ảnh.
 
 # Phân tích lưu lượng giao thông
 **"Phân tích lưu lượng giao thông"** là một phần nhỏ trong hệ thống ITS, sử dụng thư viện mã nguồn mở OpenCV (open-source library) là chủ yếu để phân tích hình ảnh và trả kết quả về CSDL Firebase.
@@ -55,7 +44,4 @@ $ python main.py
 ```
 ![Image](/images/image4.png/ "Image4")
 
-### Video hướng dẫn
-[![VIDEO HƯỚNG DẪN](https://yt-embed.herokuapp.com/embed?v=GlTSvSGjCzc)](https://youtu.be/GlTSvSGjCzc "VIDEO HƯỚNG DẪN")
-***
-Xong rồi! Hell yeah! 😁
+Done! 😁
